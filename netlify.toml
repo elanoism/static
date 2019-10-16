@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/hub"
+  to = "https://www.confluent.io/hub/"
+  status = 200
+  force = true
