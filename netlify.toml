@@ -3,6 +3,3 @@
   to = "https://hub-staging.confluent.io/:splat"
   status = 200
   force = true
-
-
-  # /hub    https://hub-staging.confluent.io
