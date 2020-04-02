@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/hub/*"
-  to = "https://hub-staging.confluent.io/:splat"
+  to = "https://hub-staging.confluent.io/hub/:splat"
   status = 200
   force = true
